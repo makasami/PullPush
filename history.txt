@@ -1,0 +1,82 @@
+
+    1  git init
+    2  git status
+    3  git add .
+    4  git commit -m "Se agrega imagenes de tracción, 88 jpg"
+    5  git branch -M main
+    6  git remote add origin https://github.com/makasami/OSCAR_v2.git
+    7  git push -u origin main
+    8  git init
+    9  git add .
+   10  git commit -m "Se agrega normas"
+   11  git branch -M main
+   12  git remote add origin https://github.com/makasami/OSCAR_v2.git
+   13  git push -u origin main
+   14  git status
+   15  git push
+   16  git rm 2_Flexion.xlsx
+   17  git rm 1. Materiales/Excel/2_Flexion.xlsx
+   18  git pull
+   19  git push
+   20  git pull
+   21  git push
+   22  get reset
+   23  git reset
+   24  git reset 21ad1ecbb76307da5beac7eee63a06312de4417b
+   25  get pull
+   26  git pull
+   27  git add
+   28  git push
+   29  make
+   30  choco install make
+   31  reload
+   32  help
+   33  pwd
+   34  pwd
+   35  man cd
+   36  cd man
+   37  cd -h
+   38  cd -help
+   39  cd --help
+   40  grep 
+   41  man grep
+   42  grep --help
+   43  compgen -flag
+   44  compgen -c
+   45  mkdir -help
+   46  mkdir --help
+   47  mkdir repo_original   --- crea carptea
+   48  cd repo_original   ----- canbia a la carpeta
+   49  touch    
+   50  touch prueba     ------ crea archivo
+   51  ls -help
+   52  ls --help
+   53  ls                ----------- ver lo que esta en la carpeta
+   54  nor nor nor nor nor 
+   55  history                
+   56  history grep
+   57  history 
+   58  history | grep
+   59  history | grep touch
+   60  nano	     ------  entraba a un editor de text 
+   61  nano 
+   62  cat prueba     ------ entra al archivo
+   63  eco
+   64  eko
+   65  echo         ---------- escribe
+   66  echo hola
+   67  echo hola >> prueba    ------ escribe a archivo prueba
+   68  cat prueba
+   69  touch prueba2   --- crear archivo
+   70  history   ----- 
+   71  ls
+   72  help
+   73  rm prueba2   ---- borrar archivo
+   74  ls
+   75  history
+   76  history | echo   ---------- | es para enviar a...
+   77  ls
+   78  history | echo >> history.txt 
+   79  cat history.txt
+   80  ls
+   81  history >> history.txt  ---- agregar el historial a un txt
